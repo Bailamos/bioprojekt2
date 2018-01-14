@@ -1,0 +1,6 @@
+D:\ETI\Mag 2\Bio\Projekt 1\BioProjekt2\BioProjekt2\BioProjekt2\bin\Debug\BioProjekt2.exe.config
+D:\ETI\Mag 2\Bio\Projekt 1\BioProjekt2\BioProjekt2\BioProjekt2\bin\Debug\BioProjekt2.exe
+D:\ETI\Mag 2\Bio\Projekt 1\BioProjekt2\BioProjekt2\BioProjekt2\bin\Debug\BioProjekt2.pdb
+D:\ETI\Mag 2\Bio\Projekt 1\BioProjekt2\BioProjekt2\BioProjekt2\obj\Debug\BioProjekt2.csprojResolveAssemblyReference.cache
+D:\ETI\Mag 2\Bio\Projekt 1\BioProjekt2\BioProjekt2\BioProjekt2\obj\Debug\BioProjekt2.exe
+D:\ETI\Mag 2\Bio\Projekt 1\BioProjekt2\BioProjekt2\BioProjekt2\obj\Debug\BioProjekt2.pdb
